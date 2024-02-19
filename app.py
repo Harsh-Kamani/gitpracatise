@@ -5,3 +5,6 @@ def sum(a,b,c):
 
 def multi(a,b):
     return a*b
+
+def divistion(a,b):
+    return a/b
